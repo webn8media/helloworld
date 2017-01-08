@@ -1,2 +1,6 @@
 # helloworld
-Just another repository
+Hello Beautiful People.
+
+I would like to introduce us.  We are Webn8.  
+
+As one of Birmingham’s leading web design agencies, Webn8 offers a full complement of professional web design services. Webn8 has worked with just about every type of business and organization. Let us put our MANY YEARS of expertise to work for you. Webn8 is located in Birmingham, AL. We are not a huge corporation and we’re not a mom-and-pop – we are a medium size company – big enough to serve our clients with excellence and small enough to know your name and business when you call. Our company exists for this purpose – to use our expertise to provide online services to businesses that will help increase their profits through sales, time-savings procedures, and online visibility. That is how we serve our clients and remain relevant. As long as we are helping our clients thrive then we too can thrive. We develop websites and branding and tailor online marketing strategies that are specific to our clients’ needs. No matter what your business or online goals, we can help. We love to create personal relationships with our clients. We’d love to come to your place of business or have a phone or internet conference with you to discuss your online future!
